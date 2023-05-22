@@ -8,16 +8,22 @@ Before you start coding, you'll need to make sure you have all the necessary too
 
 Create a project directory and navigate to it in the terminal:
 
+```bash 
 mkdir currency-converter
 cd currency-converter
+```
 Create a virtual environment named `env` using the following command:
 
+```bash 
 python -m venv env
+```
 Python now ships with the pre-installed `venv` library to create virtual environments.
 
 Activate the virtual environment like this:
 
+```bash 
 source env/bin/activate
+```
 Note: if you're on Windows, you'll need to use `source env/Scripts/activate` to activate the environment.
 
 You should see `(env)` in your terminal prompt, indicating that the virtual environment has been activated.
@@ -30,4 +36,7 @@ Now that you've created the virtual environment, you can install the following l
 `pillow`: The library adds image processing capabilities to your Python interpreter.
 To install the libraries, run the following command:
 
+
+```bash 
 pip install requests python-decouple pillow
+```
