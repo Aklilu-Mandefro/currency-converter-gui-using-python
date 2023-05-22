@@ -1,7 +1,4 @@
-# Currency Converter GUI Application Using Tkinter
-
-![Demo](demo.gif)
-
+# Currency Converter GUI Application Using Tkinter Python
 
 ## How to Set Up Your Virtual Environment
 
@@ -41,3 +38,8 @@ To install the libraries, run the following command:
 ```bash 
 pip install requests python-decouple pillow
 ```
+
+### Preview of The Output
+
+![Demo](demo.gif)
+To preview the output, just click on the play icon at the top right of this image
