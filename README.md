@@ -43,3 +43,6 @@ pip install requests python-decouple pillow
 
 ![Demo](demo.gif)
 To preview the output, just click on the play icon at the top right of this image
+
+## Please give this repo a ⭐ if you found it helpful.
+
