@@ -1,6 +1,6 @@
 # Currency Converter GUI Application Using Tkinter Python
 
-## How to Set Up Your Virtual Environment
+## ✍️ How to Set Up Your Virtual Environment
 
 Before you start coding, you'll need to make sure you have all the necessary tools and libraries installed. To ensure that you have a clean and isolated environment, you'll create a virtual environment using `venv`.
 
